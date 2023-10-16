@@ -19,6 +19,10 @@
         
         <script src="/script/site.js" async defer></script>
 
+        <header>
+
+        </header>
+
         <main>
         <h1>Willkommen bei rosefoto.de</h1>
         <p>Keine Sorge! Die Seite wird irgendwann noch schöner, im Moment fehlen mir nur die Kapas dazu...</p>
@@ -56,5 +60,9 @@
             <li><a href="https://fotos.rosefoto.de/apps/memories/a/XSBKP1gZowZfI4isj1oEXtquirV79UyP">1000 Kreuze Marsch Oktober 2023</a></li>
         </ul>
         </main>
+
+        <footer>
+            
+        </footer>
     </body>
 </html>
