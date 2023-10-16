@@ -11,8 +11,8 @@
         <meta name="description" content="Aktionsfotos aus München und Umgebung">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="/style/Skeleton-2.0.4/font/raleway400-300-600.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/normalize.css">
-        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/skeleton.css">
+        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/normalize.min.css">
+        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/skeleton.min.css">
         <link rel="stylesheet" href="/style/style.min.css">
     </head>
     <body>
