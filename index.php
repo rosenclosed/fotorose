@@ -45,11 +45,11 @@
             href="https://creativecommons.org/licenses/by-sa/4.0/deed.de?ref=chooser-v1" target="_blank"
             rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution-ShareAlike 4.0 International<img
                 style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                src="/img/cc/cc.svg?ref=chooser-v1"><img
+                src="/img/cc/cc.svg?ref=chooser-v1" alt="Creative Commons Signet"><img
                 style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                src="/img/cc/by.svg?ref=chooser-v1"><img
+                src="/img/cc/by.svg?ref=chooser-v1" alt="Creative Commons Attribution Signet"><img
                 style="height:22px!important;margin-left:3px;vertical-align:text-bottom;"
-                src="/img/cc/sa.svg?ref=chooser-v1"></a>
+                src="/img/cc/sa.svg?ref=chooser-v1" alt="Creative Commons ShareAlike Signet"></a>
     </p>
     <h3>Urheberrecht:</h3>
     <p>
