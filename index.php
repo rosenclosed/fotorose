@@ -10,6 +10,9 @@
         <title>rosefoto.de - Aktionsfotos aus München & Umgebung</title>
         <meta name="description" content="Aktionsfotos aus München und Umgebung">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/style/Skeleton-2.0.4/font/raleway400-300-600.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/normalize.css">
+        <link rel="stylesheet" href="/style/Skeleton-2.0.4/css/skeleton.css">
         <link rel="stylesheet" href="/style/style.min.css">
     </head>
     <body>
@@ -24,10 +27,16 @@
         </header>
 
         <main>
+        <div class="container">
+
+        <div class="row">
         <h1>Willkommen bei rosefoto.de</h1>
         <p>Keine Sorge! Die Seite wird irgendwann noch schöner, im Moment fehlen mir nur die Kapas dazu...</p>
         <p>So lange ist das hier eher eine wenig organisierte Linkliste die du fröhlich durchklicken kannst.</p>
-        <br>
+        </div>
+
+
+        <div class="row">
         <h2>Hinweise zu den Fotos:</h2>
         <h3>Lizenzen:</h3>
         <p xmlns:cc="http://creativecommons.org/ns#">
@@ -54,15 +63,19 @@
     <p>
         <strong>NEIN!</strong> Selbst wenn ich wollte, könnte ich euch nach dem Veröffentlichen keine unverpixelten Versionen zur Verfügung stellen, da diese mit sicheren Methoden von allen Speichermedien geschreddert wurden.
     </p>
-        <br>
+        </div>
+
+        <div class="row">
         <h2>Aktuelle Alben:</h2>
         <ul>
             <li><a href="https://fotos.rosefoto.de/apps/memories/a/XSBKP1gZowZfI4isj1oEXtquirV79UyP">1000 Kreuze Marsch Oktober 2023</a></li>
         </ul>
+        </div>
+        </div>
         </main>
 
         <footer>
-            
+
         </footer>
     </body>
 </html>
