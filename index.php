@@ -10,7 +10,7 @@
         <title>rosefoto.de - Aktionsfotos aus München & Umgebung</title>
         <meta name="description" content="Aktionsfotos aus München und Umgebung">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="/style/style.css">
+        <link rel="stylesheet" href="/style/style.min.css">
     </head>
     <body>
         <!--[if lt IE 7]>
